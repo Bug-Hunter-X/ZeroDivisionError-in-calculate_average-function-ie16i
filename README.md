@@ -1,0 +1,3 @@
+# Python Code Bug: ZeroDivisionError in Average Calculation
+
+This repository demonstrates a common coding error in Python: handling an empty list in an average calculation function. The `calculate_average` function initially raises a `ZeroDivisionError` when provided with an empty list.  The solution shows how to gracefully handle this by returning 0 for empty input lists.  This example highlights the importance of input validation in robust code development. 
